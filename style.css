@@ -1,4 +1,6 @@
-
+body {
+    margin: 0;
+}
 
 .text-box {
     width: 100vw;
